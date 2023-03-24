@@ -10,7 +10,7 @@
 <body>
 
     <?php
-        session_start();
+        session_start(); //olaola OLAOLAOLAOLAOAL
         if (isset($_SESSION["logged"])) {
             header("Location: ./pages/main.php");
             die;

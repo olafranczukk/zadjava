@@ -20,7 +20,7 @@
     <table>
         <tr>
             <th>id</th>
-            <th>login</th>
+            <th>Login</th>
             <th>password</th>
             <th>name</th>
             <th>lastname</th>
